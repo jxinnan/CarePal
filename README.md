@@ -4,6 +4,7 @@ A chatbot that provides personalized emotional support for patients, built on re
 
 ## Prototype Usage
 
+Requires Python >=3.10 <=3.12
 1. Set up InterSystems IRIS using [the instructions here](https://github.com/intersystems-community/hackathon-2024/tree/main "intersystems-community/hackathon-2024/tree/main").
 2. Install necessary dependencies.
 3. Fill in your [Google Gemini API key](https://aistudio.google.com/apikey "Get API key | Google AI Studio") in [`Config.py`](./utils/Config.py).
